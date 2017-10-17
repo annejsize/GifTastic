@@ -74,7 +74,7 @@ $(document).ready(function() {
 
     $("#searchSubmit").on("click", function() {
         var searchTerm = $("input#searchTerm").val();
-        alert(searchTerm);
+        // alert(searchTerm);
         $("#buttonsGoHere").empty();
         topics.push(searchTerm);
         renderButtons();
