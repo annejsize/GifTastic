@@ -1,0 +1,39 @@
+/*
+font-family: 'Amatic SC', cursive;
+font-family: 'Anton', sans-serif;*/
+
+.btn {
+  color: white;
+  background-color: orange;
+  margin: 10px;
+  /*float: left;*/
+}
+
+img {
+  padding: 10px 0 10px 0;
+
+}
+
+p {
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+  padding: 0px 10px 0px 15px;
+  background-color: black;
+  color: white;
+  position: relative;
+  z-index: 1;
+  top: -38px;
+  width: 125px;
+}
+
+#title {
+  font-size: 20px;
+  font-family: 'Amatic SC', cursive;
+  position: initial;
+  width: 225px;
+}
+
+div .item {
+  /*display: inline-block;
+  float: left;*/
+}
